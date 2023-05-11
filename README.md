@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/asatiramanuj" target="blank"><img src="https://img.shields.io/twitter/follow/asatiramanuj?logo=twitter&style=for-the-badge" alt="asatiramanuj" /></a> </p>
 
-- 🔭 I’m currently working on **TALK HOUSE**
+- 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **MERN Stack and DSA**
+- 🌱 I’m currently learning **MERN Stack, Next Js, WebRTC, Socket.io**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ramanuj-1729](https://github.com/Ramanuj-1729)
 
