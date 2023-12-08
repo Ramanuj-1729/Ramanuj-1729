@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN Stack, Next Js, WebRTC, Socket.io**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ramanuj-1729](https://github.com/Ramanuj-1729)
+- 👨‍💻 All of my projects are available at [https://ramanuj.vercel.app/projects](https://ramanuj.vercel.app/projects)
 
-- 💬 Ask me about **React, C++**
+- 💬 Ask me about **JavaScript, React, C++**
 
 - 📫 How to reach me **asatiramanuj@gmail.com**
 
